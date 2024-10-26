@@ -1,0 +1,138 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    color: #333;
+    line-height: 1.6;
+}
+
+
+.hero {
+    background-color: #00bfa6; 
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero-content h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+.hero-content p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background-color: #ffd700; 
+    color: #333;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.features {
+    padding: 50px 20px;
+    background-color: #f0f8f7; 
+    text-align: center;
+}
+
+.features h2 {
+    font-size: 2.5em;
+    color: #00bfa6; 
+    margin-bottom: 20px;
+}
+
+.feature {
+    margin: 20px;
+    padding: 20px;
+}
+
+.feature h3 {
+    color: #ffd700; 
+}
+
+/* Registro */
+.registro {
+    background-color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.registro h2 {
+    font-size: 2.5em;
+    color: #00bfa6; 
+    margin-bottom: 20px;
+}
+
+.registro-form input {
+    padding: 10px;
+    margin: 10px 0;
+    width: 80%;
+    max-width: 400px;
+    border: 1px solid #00bfa6; 
+    border-radius: 5px;
+}
+
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #ffd700; 
+    color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.social-button {
+    padding: 10px;
+    margin: 5px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 80%;
+    max-width: 400px;
+}
+
+.google {
+    background-color: #db4437;
+}
+
+.facebook {
+    background-color: #4267B2;
+}
+
+
+.testimonios {
+    background-color: #f0f8f7; 
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.testimonios p {
+    font-style: italic;
+    color: #555;
+}
+
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer nav a {
+    color: #ffd700; 
+    margin: 0 10px;
+    text-decoration: none;
+}
